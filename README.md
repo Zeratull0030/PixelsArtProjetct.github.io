@@ -1,1 +1,2 @@
-# PixelsArtProjetct.github.io
+- TERCEIRO PROJETO TRYBE.
+- VOCÊ PODE TESTAR EM : https://zeratull0030.github.io/PixelsArtProjetct.github.io/
